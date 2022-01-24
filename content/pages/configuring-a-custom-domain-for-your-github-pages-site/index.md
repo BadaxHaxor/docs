@@ -1,26 +1,38 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tester By ./SLoerD</title>
+<link rel="icon" type="image/x-icon" href="https://lh6.googleusercontent.com/proxy/E-jATipSPFRJh8o0W_usPRUKd99CtM6AgSp8_MDKuuNMqnVugDQXbX4eK1--Jj1yN3WDA3DSOJu18lR2tnKDz1FK3qG59mEn=s0-d">
+	<meta charset="utf-8">
+	<meta name="keywords" content="Tester By ./SLoerD">
+	<meta name="description" content="PandeglangBlackHat Wass here">
+<style>
+	@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+	body{
+		font-family: 'Acme';
+		background-color: white;
+		color: white;
+		text-align: center;
+		margin-top: 8%;
+		width: auto;
+	}
+	h1{
+		margin-top: 0%;
+		font-size: 2.8vw;
+	}
+</style>
+</head>
+<body>
+  <div id="container">
+	  </h3><center><video autoplay="autoplay" controls="controls" src="https://a.top4top.io/m_2214h5bkq0.mp4" width=600 height=600 type="video/mpeg"></video></center></body></html>
+     </script>   
+  </video>	
+	<font color="black" size="8"> Tester By ./SLoerD</font><br><br>
+		<br>
+	<i>
+	<font color="black" size="40">i hate my life</font><br><br><br>
+  	<font color="black" size="4">Gretz :<br>Mr.Deppuh - !Y4n - DimzNutzz - Davdnt051 and all member PandeglangBlackHat</font>
+  <font color="red" size="5"> IndonesianHackerRulezz
+	<br>
+	</i>
+</html>
