@@ -1,26 +1,37 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Gua Begal Lo!!!</title>
+<link rel="icon" type="image/x-icon" href="https://lh6.googleusercontent.com/proxy/E-jATipSPFRJh8o0W_usPRUKd99CtM6AgSp8_MDKuuNMqnVugDQXbX4eK1--Jj1yN3WDA3DSOJu18lR2tnKDz1FK3qG59mEn=s0-d">
+	<meta charset="utf-8">
+	<meta name="keywords" content="Dog">
+	<meta name="description" content="Warr ajg">
+<style>
+	@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+	body{
+		font-family: 'Acme';
+		background-color: white;
+		color: white;
+		text-align: center;
+		margin-top: 8%;
+		width: auto;
+	}
+	h1{
+		margin-top: 0%;
+		font-size: 2.8vw;
+	}
+</style>
+</head>
+  <img src="https://h.top4top.io/p_222494k5u0.jpg" width="350"height="350">
+  <br>
+	<font color="black" size="8">Gua Begal Lo</font><br><br>
+		<br>
+	<i>
+	<font color="red" size="40">Nama:Rofiq - Country:indonesia - Alamat:JawaTimur-Surabaya</font><br><br><br>
+  	<font color="black" size="4">Gretz :<br>PandegLangBlackHat</font>
+  <br>
+  	<br>
+  <font color="red" size="10"> IndonesianHackerRulezz
+	<br>
+	</i>
+</html>
